@@ -30,21 +30,21 @@ This project is a smart, user-friendly candidate recommender system that helps r
 ## 📦 Installation
 
 ### 1. **Clone the repository**
-git clone https://github.com/<your-username>/candidate-recommender-system.git
-cd candidate-recommender-system
+```git clone https://github.com/rohans9/candidate-recommender-system.git```
+```cd candidate-recommender-system```
 
 ### 2. **Create and activate a virtual environment**  
-This keeps your dependencies isolated and your system clean.
+This keeps our dependencies isolated and our system clean.
 
 - **Windows:**
-python -m venv venv
+```python -m venv venv```
 venv\Scripts\activate
 
 ### 3. **Install dependencies**
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### 4. **Download the spaCy English model**
-python -m spacy download en_core_web_lg
+```python -m spacy download en_core_web_lg```
 
 
 ---
@@ -52,7 +52,7 @@ python -m spacy download en_core_web_lg
 ## 🏃‍♂️ Usage
 
 1. **Start the app:**
-streamlit run main.py
+```streamlit run main.py```
 
 
 2. **How it works:**
@@ -91,7 +91,7 @@ Feel free to open an issue or submit a pull request.
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source  and available under the [MIT License](LICENSE).
 
 ---
 
