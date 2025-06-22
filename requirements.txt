@@ -1,0 +1,7 @@
+nltk==3.8.1
+spacy==3.7.2
+scikit-learn==1.4.1.post1
+streamlit==1.31.1
+python-docx==0.8.11
+pdfminer.six==20231228
+sentence-transformers==2.6.1
